@@ -1,4 +1,4 @@
-﻿id,Minorista,Minorista_ID,Fecha_Venta,Region,Estado,Ciudad,Producto,Precio_por_Unidad,Unidades_Vendidas,IF(Total_Ventas  IS NULL ,'NaN', Total_Ventas),Ganancia_Operativa,Metodo_Venta
+﻿id,Minorista,Minorista_ID,Fecha_Venta,Region,Estado,Ciudad,Producto,Precio_por_Unidad,Unidades_Vendidas,Total_Ventas,Ganancia_Operativa,Metodo_Venta
 1,Éxito,1128299,2024-11-13,Caribe,Atlántico,Barranquilla,Ropa de mujer,882900.0,218,4894972,893299.93,Online
 2,Plaza Sport,1128299,2024-12-12,Caribe,Bolívar,Cartagena,Ropa de mujer,882900.0,163,2736607,593937.46,Online
 3,Decathlon,1197831,2025-01-21,Andina,Tolima,Ibagué,Calzado urbano para hombre,85700.0,700,4900000,821686.73,Outlet
